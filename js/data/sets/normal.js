@@ -1446,7 +1446,7 @@ var SETDEX_SV = {
   },
   "Honchkrow": {
     "Boss Giovanni Set 1": {"nature":"Jolly","ability":"Super Luck","level":45,"item":"Scope Lens","moves":["Drill Peck","Heat Wave","Night Slash","Sucker Punch"]},
-    "Rocket Admin Ariana": {"nature":"Jolly","ability":"Super Luck","level":78,"item":"Scope Lens","moves":["Drill Peck","Night Slash","Sucker Punch","Superpower"]}
+    "Rocket Admin Ariana Set 2": {"nature":"Jolly","ability":"Super Luck","level":78,"item":"Scope Lens","moves":["Drill Peck","Night Slash","Sucker Punch","Superpower"]}
   },
   "Infernape": {
     "*Elite Four Bruno Team Two": {"nature":"Jolly","ability":"Blaze","level":85,"item":"Focus Sash","moves":["Close Combat","Pyro Ball","Stealth Rock","Taunt"],"shiny":1},
@@ -1685,30 +1685,30 @@ var SETDEX_SV = {
   },
   "Gothitelle": {
     "Juggler Nelson": {"nature":"Mild","ability":"Frisk","level":82,"moves":["Charm","Magic Room","Psychic","Psycho Boost"],"ivs":{"hp":10,"at":10,"df":10,"sp":10,"sa":10,"sd":10}},
-    "Rocket Admin Archer 2": {"nature":"Modest","ability":"Competitive","level":54,"item":"Colbur Berry","moves":["Hidden Power Fighting","Psychic","Shadow Ball","Thunder Wave"],"ivs":{"df":30,"sp":30,"sa":30,"sd":30}}
+    "Rocket Admin Ariana & Archer": {"nature":"Modest","ability":"Competitive","level":54,"item":"Colbur Berry","moves":["Hidden Power Fighting","Psychic","Shadow Ball","Thunder Wave"],"ivs":{"df":30,"sp":30,"sa":30,"sd":30}}
   },
   "Gholdengo": {
-    "Rocket Admin Archer 2": {"nature":"Timid","ability":"Good as Gold","level":55,"item":"Sitrus Berry","moves":["Focus Blast","Make It Rain","Recover","Shadow Ball"],"shiny":1},
+    "Rocket Admin Ariana & Archer": {"nature":"Timid","ability":"Good as Gold","level":55,"item":"Sitrus Berry","moves":["Focus Blast","Make It Rain","Recover","Shadow Ball"],"shiny":1},
     "*Elite Four Agatha Set 1": {"nature":"Timid","ability":"Good as Gold","level":83,"item":"Air Balloon","moves":["Focus Blast","Make It Rain","Shadow Ball","Thunder Wave"]},
     "*Elite Four Agatha Set 2": {"nature":"Timid","ability":"Good as Gold","level":83,"item":"Air Balloon","moves":["Focus Blast","Make It Rain","Nasty Plot","Shadow Ball"]}
   },
   "Houndoom-Mega": {
-    "Rocket Admin Archer 2": {"nature":"Naive","ability":"Dark Aura","level":55,"item":"Houndoomnite","moves":["Dark Pulse","Heat Wave","Scorching Sands","Sucker Punch"]},
+    "Rocket Admin Ariana & Archer": {"nature":"Naive","ability":"Dark Aura","level":55,"item":"Houndoomnite","moves":["Dark Pulse","Heat Wave","Scorching Sands","Sucker Punch"]},
     "Rocket Admin Archer Cerulean Cave": {"nature":"Timid","ability":"Dark Aura","level":79,"item":"Houndoomnite","moves":["Fiery Wrath","Flamethrower","Sludge Bomb","Sucker Punch"]},
     "*Rocket Admin Archer Mt Ember": {"nature":"Timid","ability":"Solar Power","level":100,"item":"Houndoomnite","moves":["Fiery Wrath","Flamethrower","Sludge Bomb","Solar Beam"]}
   },
   "Incineroar": {
     "Burglar Quinn": {"nature":"Rash","ability":"Blaze","level":72,"moves":["Cross Chop","Flare Blitz","Outrage","Scary Face"],"ivs":{"hp":10,"at":10,"df":10,"sp":10,"sa":10,"sd":10}},
     "Juggler Kirk": {"nature":"Modest","ability":"Blaze","level":63,"moves":["Cross Chop","Flare Blitz","Outrage","Scary Face"],"ivs":{"hp":10,"at":10,"df":10,"sp":10,"sa":10,"sd":10}},
-    "Rocket Admin Ariana": {"nature":"Adamant","ability":"Intimidate","level":54,"item":"Sitrus Berry","moves":["Darkest Lariat","Fake Out","Fire Punch","Parting Shot"]}
+    "Rocket Admin Ariana & Archer": {"nature":"Adamant","ability":"Intimidate","level":54,"item":"Sitrus Berry","moves":["Darkest Lariat","Fake Out","Fire Punch","Parting Shot"]}
   },
   "Primarina": {
     "*Aroma Lady Violet": {"nature":"Bold","ability":"Liquid Voice","level":100,"item":"Leftovers","moves":["Calm Mind","Drain Kiss","Hyper Voice","Substitute"]},
-    "Rocket Admin Ariana": {"nature":"Modest","ability":"Liquid Voice","level":55,"item":"Throat Spray","moves":["Dazzling Gleam","Hyper Voice","Psychic","Scald"]}
+    "Rocket Admin Ariana & Archer": {"nature":"Modest","ability":"Liquid Voice","level":55,"item":"Throat Spray","moves":["Dazzling Gleam","Hyper Voice","Psychic","Scald"]}
   },
   "Mawile-Mega": {
     "*Rocket Admin Ariana": {"nature":"Adamant","ability":"Huge Power","level":100,"item":"Mawilite","moves":["Iron Head","Play Rough","Sucker Punch","Thunder Punch"]},
-    "Rocket Admin Ariana Set 1": {"nature":"Adamant","ability":"Huge Power","level":55,"item":"Mawilite","moves":["Iron Head","Play Rough","Sucker Punch","Thunder Punch"]},
+    "Rocket Admin Ariana & Archer": {"nature":"Adamant","ability":"Huge Power","level":55,"item":"Mawilite","moves":["Iron Head","Play Rough","Sucker Punch","Thunder Punch"]},
     "Rocket Admin Ariana Set 2": {"nature":"Adamant","ability":"Huge Power","level":79,"item":"Mawilite","moves":["Iron Head","Play Rough","Sucker Punch","Swords Dance"]}
   },
   "Exploud": {
@@ -1925,7 +1925,7 @@ var SETDEX_SV = {
     "*Fisherman Andrew": {"nature":"Timid","ability":"Ice Body","level":63,"item":"Light Clay","moves":["Aurora Veil","Blizzard","Freeze-Dry","Shadow Ball"]}
   },
   "Hatterene": {
-    "Rocket Admin Ariana": {"nature":"Modest","ability":"Magic Bounce","level":77,"item":"Sitrus Berry","moves":["Dazzling Gleam","Mystical Fire","Psychic","Trick Room"]},
+    "Rocket Admin Ariana Set 2": {"nature":"Modest","ability":"Magic Bounce","level":77,"item":"Sitrus Berry","moves":["Dazzling Gleam","Mystical Fire","Psychic","Trick Room"]},
     "Leader Sabrina": {"nature":"Quiet","ability":"Magic Bounce","level":57,"item":"Psychic Seed","moves":["Drain Kiss","Expanding Force","Mystical Fire","Trick Room"],"shiny":1,"ivs":{"at":0,"sp":0}},
     "*Ace Trainer Rolando": {"nature":"Modest","ability":"Magic Bounce","level":81,"item":"Leftovers","moves":["Calm Mind","Drain Kiss","Mystical Fire","Psyshock"]}
   },
@@ -2254,7 +2254,7 @@ var SETDEX_SV = {
   },
   "Rhyperior": {
     "*Ace Trainer Derek": {"nature":"Adamant","ability":"Solid Rock","level":71,"item":"Hard Stone","moves":["Earthquake","Fire Punch","Megahorn","Stone Edge"]},
-    "Rocket Admin Ariana": {"nature":"Adamant","ability":"Solid Rock","level":78,"item":"Weakness Policy","moves":["Earthquake","Heat Crash","Ice Punch","Rock Blast"]},
+    "Rocket Admin Ariana Set 2": {"nature":"Adamant","ability":"Solid Rock","level":78,"item":"Weakness Policy","moves":["Earthquake","Heat Crash","Ice Punch","Rock Blast"]},
     "*Bird Keeper Perry": {"nature":"Careful","ability":"Solid Rock","level":63,"item":"Rindo Berry","moves":["Earthquake","Fire Punch","Stealth Rock","Stone Edge"]},
     "Pokemaniac Mark": {"nature":"Jolly","ability":"Lightning Rod","level":60,"moves":["Earthquake","Megahorn","Stone Edge","Take Down"]}
   },
