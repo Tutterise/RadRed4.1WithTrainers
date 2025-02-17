@@ -557,3 +557,36 @@ table.field {
 .extraSetMoves {
     width: 100%;
 }
+
+
+#clear-party {
+    line-height: 20px;
+    margin-right: 10px;
+    background: none;
+    border-radius: 5px;
+    padding: 0px 4px;
+    display: none; 
+    color: #bb86fc;
+    width: 60px;
+    text-align: center;
+    cursor: pointer;
+    margin-left: 13px;
+    margin-top:  20px;
+    border: 1px solid #bb86fc;
+}
+
+#edge {
+    line-height: 20px;
+    margin-right: 10px;
+    background: none;
+    border-radius: 5px;
+    border: 1px solid #bb86fc;
+    padding: 0px 4px;
+    color: #bb86fc;
+    width: 60px;
+    text-align: center;
+    cursor: pointer;
+    margin-left: 13px;
+    margin-top:  20px;
+    display: none;
+}
